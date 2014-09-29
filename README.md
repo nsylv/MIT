@@ -3,8 +3,8 @@ MIT
 
 A collection of my code and resources from junior year of MIT
 
-Junior Year:
-  Fall
+Junior Year (Fall):
+   
     6.034 (Artificial Intelligence)
     
     6.004 (Computation Structures)
